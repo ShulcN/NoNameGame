@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Window
+  - Object
+  - Human
+  - Door
+  - Walls
+  - MainCharcter
+  - BackWall
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - MainCharcter
+  - OtherPeople
+  - Objects
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fon
+    uniqueID: 180960323
+    locked: 0
+  - name: WallBack
+    uniqueID: 3639527773
+    locked: 0
+  - name: OtherHeros
+    uniqueID: 1468415885
+    locked: 0
+  - name: MainCharcter
+    uniqueID: 1065018199
+    locked: 0
+  - name: Wall
+    uniqueID: 423201141
+    locked: 0
+  - name: Objects
+    uniqueID: 2173703523
+    locked: 0
+  - name: GUI
+    uniqueID: 2898262675
+    locked: 0
